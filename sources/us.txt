@@ -1,4 +1,4 @@
-# US：每行一个待合并文件的 URL，# 开头是注释，会被忽略。
-# 填好后保存，下一次每天 08:00（或手动 Run workflow）就会生成 us.txt。
-# 例如：
-# https://bestcf.pages.dev/xxx/us.txt
+https://bestcf.pages.dev/s5gy/us.txt
+https://bestcf.pages.dev/tiancheng/us.txt
+https://bestcf.pages.dev/tiancheng2/us.txt
+https://bestcf.pages.dev/random-region/US/all.txt
